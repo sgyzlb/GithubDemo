@@ -82,6 +82,7 @@
 		2D29F7CF18FB774F00F3AFA4 = {
 			isa = PBXGroup;
 			children = (
+				2D29F81018FB77DA00F3AFA4 /* New Group */,
 				2D29F7E118FB774F00F3AFA4 /* GithubDemo */,
 				2D29F80018FB774F00F3AFA4 /* GithubDemoTests */,
 				2D29F7DA18FB774F00F3AFA4 /* Frameworks */,
@@ -150,6 +151,13 @@
 				2D29F80318FB774F00F3AFA4 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		2D29F81018FB77DA00F3AFA4 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
